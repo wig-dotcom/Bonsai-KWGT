@@ -111,52 +111,46 @@
 		"downloadable": true
 	},
 	{
-		"name": "Pastel 17",
+		"name": "Bonsai 17",
 		"author": "Wigebox",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221015_231528_0000.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221015_231528_0000.png",
+		"url": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/20221127_011641_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/20221127_011641_0000.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Pastel 18",
+		"name": "Bonsai 18",
 		"author": "Wigebox",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221015_231707_0000.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221015_231707_0000.png",
+		"url": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/20221204_210524_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/20221204_210524_0000.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Pastel 19",
+		"name": "Bonsai 19",
 		"author": "Wigebox",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221015_231747_0000.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221015_231747_0000.png",
+		"url": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/IMG_20221129_181042.jpg",
+		"thumbnail": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/IMG_20221129_181042%20(2).jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Pastel 20",
+		"name": "Bonsai 20",
 		"author": "Wigebox",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221015_232858_0000.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221015_232858_0000.png",
+		"url": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/png_20221202_150901_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/png_20221202_150901_0000.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Pastel 21",
+		"name": "Bonsai 21",
 		"author": "Wigebox",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221020_005327_0000.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221020_005327_0000.png",
+		"url": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/png_20221206_230154_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/png_20221206_230154_0000.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Pastel 22",
+		"name": "Bonsai 22",
 		"author": "Wigebox",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221020_005803_0000.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221020_005803_0000.png",
+		"url": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/png_20221206_230427_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Bonsai-KWGT/raw/main/png_20221206_230427_0000.jpg",
 		"downloadable": true
-	},
-	{
-		"name": "Pastel 23",
-		"author": "Wigebox",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221020_010623_0000.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/pastelKWGT/main/png_20221020_010623_0000.png",
-		"downloadable": true
+	
 	}
 ]
